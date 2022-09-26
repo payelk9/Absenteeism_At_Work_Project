@@ -1,5 +1,11 @@
 # Absenteeism_At_Work_Project
-#### What is Absenteeism?
+
+### Step1: Created a predictictive model in python  which can predict absenteeism
+### Step2: Load the prediction result in MySQL database for visualization purpose
+### Step3: Imported the prediction data from database to a csv file and visualized in Tableau 
+
+#### Introduction:
+What is Absenteeism?
 Absenteeism is a habitual pattern of absence from a duty or obligation without good reason. Generally, absenteeism is unplanned absences.Absenteeism has been viewed as an indicator of poor individual performance, as well as a breach of an implicit contract between employee and employer. It is seen as a management problem, and framed in economic or quasi-economic terms.
 
 Problem:
