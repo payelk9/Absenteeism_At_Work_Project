@@ -21,3 +21,4 @@ The goal is to create a predictive model which can predict absenteeism i.e. whet
 * How many children and pets they have?
 * How far they live from their workplace? 
 * Do they have higher education?
+### Tableau Viz Link : https://public.tableau.com/app/profile/payel.karmakar/viz/Absenteeism_At_Work_Predictions/Dashboard1
