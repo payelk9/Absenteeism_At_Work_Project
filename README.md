@@ -1,7 +1,7 @@
 # Absenteeism_At_Work_Project
 
 ### Step1: Created a predictictive model in python which can predict absenteeism and deployed on localhost
-### Step2: Load the prediction result in MySQL database for visualization purpose
+### Step2: Loaded the prediction result in MySQL database for data storing and further analysis purpose
 ### Step3: Imported the prediction data from database to a csv file and visualized in Tableau. From viz, We can see live prediction when the api is running on localhost. 
 
 #### Introduction:
